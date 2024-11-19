@@ -503,6 +503,10 @@ footer li {
     justify-content: center;
   }
 
+  .gallery h2 {
+    font-size: 4rem;
+    font-weight: bold;
+  }
 
   .timeline li .timeline-image {
     width: 80px;
