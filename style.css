@@ -418,6 +418,7 @@ footer li {
 
   .simply-countdown > .simply-section {
     padding: 70px;
+    background-color: #13416B;
   }
 
   .home .heart {
@@ -463,6 +464,7 @@ footer li {
   .simply-countdown > .simply-section {
     padding: 60px;
     margin: 5px;
+    background-color: #13416B;
   }
 
   .mynavbar .nav-link {
@@ -493,6 +495,14 @@ footer li {
     background-color: #13416B;
     color: white;
   }
+
+  .info .img-thumbnail {
+    width: 200px;
+    height: 280px;
+    margin-left: 73px;
+    justify-content: center;
+  }
+
 
   .timeline li .timeline-image {
     width: 80px;
